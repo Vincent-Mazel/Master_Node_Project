@@ -1,0 +1,7 @@
+[
+    {"nom" : "Torsades", "type" : "pates", "prix" : "3"},
+    {"nom" : "Penne", "type" : "pates", "prix" : "4"},
+    {"nom" : "Farfalles", "type" : "pates", "prix" : "2"},
+    {"nom" : "Nouilles", "type" : "pates", "prix" : "6"},
+    {"nom" : "Spaghetti", "type" : "pates", "prix" : "4"}
+]
